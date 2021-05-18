@@ -2,6 +2,10 @@
 
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajo&count_private=true)
 
+### Tech Stack
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 ![](https://komarev.com/ghpvc/?username=aadityajo)
 
 <!--
