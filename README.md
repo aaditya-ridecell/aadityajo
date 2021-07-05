@@ -5,7 +5,7 @@
 
 ## Hey there. I am Aaditya Joshi. Welcome to my GitHub profile.
 
-🔭 I’m currently working on [![Someity.png](https://github.com/RonLek/Someity)]
+🔭 I’m currently working on [![someity.png](https://github.com/RonLek/Someity)]
 
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajo&count_private=true)
 
