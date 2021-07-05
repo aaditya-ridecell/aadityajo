@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajo&count_private=true)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajo&count_private=true)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
 ![](https://komarev.com/ghpvc/?username=aadityajo)
 
+[linkedin]: https://linkedin.com/in/aadityajoshi2699/
+[mail]: mailto:aadityajoshi2699@gmail.com
 <!--
 **aadityajo/aadityajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
