@@ -1,4 +1,5 @@
-<img alt="Background" src="background.jpg" width="50%">
+<img alt="Background" src="background.jpg" width="80%">
+
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
